@@ -9,12 +9,12 @@
         app:showAsAction="never" />
     <item
         android:id="@+id/action_option2"
-        android:orderInCategory="100"
+        android:orderInCategory="101"
         android:title="@string/dodana_opcja_2"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_option3"
-        android:orderInCategory="100"
+        android:orderInCategory="102"
         android:title="@string/dodana_opcja_3"
         app:showAsAction="never" />
 </menu>
